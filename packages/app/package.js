@@ -55,11 +55,11 @@ Package.onUse(function (api) {
 
     'devices/display.coffee',
     'devices/display.html',
-    'devices/list.coffee',
+    'devices/list.js',
     'devices/list.html',
     'devices/list_item.coffee',
     'devices/list_item.html',
-    'devices/event_log.coffee',
+    'devices/event_log.js',
     'devices/event_log.html',
 
     'components/visualization/linechart.coffee',
